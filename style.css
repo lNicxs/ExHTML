@@ -1,0 +1,23 @@
+body{
+    background-color:slategray;
+}
+
+h1{
+    color: #ffffff;
+}
+
+ul{
+    color: #ffffff;
+}
+#V3{
+    background-color:yellow;
+    border: 3px solid #000000;
+}
+
+#V1{
+    color: #f1c40f;
+}
+
+#V2{
+    color: #e74c3c;
+}
